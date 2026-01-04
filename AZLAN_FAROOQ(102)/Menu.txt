@@ -1,0 +1,6 @@
+Chips,40
+Coke ,50
+Noodles,100
+Sandwich ,200
+Burger ,250
+Pizza ,500
